@@ -1,0 +1,63 @@
+body {  
+    background-color: #ffe0f1;
+    font-family: 'Courier New', Courier, monospace; 
+    color: #0d015b; 
+}
+
+.my_photo {
+    background: url(../image/dog.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 600px;
+    height: 400px;
+}
+
+.my_photo2 {
+    background: url(../image/dog2.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.title_photo {
+    text-align: center;
+}
+
+.row {
+    
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+}
+.img_size {
+}
+.title_photo {
+}
